@@ -1,5 +1,5 @@
 # Tercer Semestre 
-# Trabajos del Tercer Cuatrimestre 💾
+# Trabajos del Tercer Cuatrimestre ⭐
 
 Este repositorio contiene los trabajos realizados durante el tercer cuatrimestre de mi carrera. En este período, hemos cubierto clases relacionadas con Java, JavaScript y Python.
 
